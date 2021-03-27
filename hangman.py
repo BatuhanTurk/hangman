@@ -129,7 +129,7 @@ def __initGame__(ana_kelime):
 
 function_count=0
 
-kelimeler = ["hızlı araba", "güzel ev", "batuhan oğulgaymış", "şevki vurduranoğlu"]
+kelimeler = ["hızlı araba", "güzel ev", "karpuz", "ekşili köfte"]
 ana_kelime = kelimeler[rn(0,3)]
 cizgi=len(ana_kelime)
 game_finish=0
